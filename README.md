@@ -1,0 +1,1 @@
+Hello this is meant to be a basic CRUD app to reinforce javascript concepts before formally learning node.js

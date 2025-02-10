@@ -1,0 +1,12 @@
+html {
+  background-color: #212121;
+  color:aliceblue;
+}
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+.nav-element {
+  font-size: 1.5rem;
+  margin: 1rem;
+}
